@@ -23,5 +23,9 @@
     "tailwindcss": "^3",
     "eslint": "^8",
     "eslint-config-next": "14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulMWolf/finapp.git"
   }
 }
